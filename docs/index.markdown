@@ -39,3 +39,8 @@ Additionally, I have experience teaching as both a teaching assistant and an adj
 <a href=""><img src="./src/icono_scholar_dark.svg" width=30/></a> &nbsp; &nbsp;
 <a href=""><img src="./src/icono_linkedin_dark.svg" width=30/></a> &nbsp; &nbsp;
 <a href=""><img src="./src/icono_github_dark.svg" width=30/></a> &nbsp; &nbsp;
+
+---------------------------------------------------------------------------------------
+Contact: abraham.montes@utexas.edu <br>
+Austin, Texas, USA <br> <br>
+<img src="./src/RGB_formal_Cockrell.png" width=300/>
