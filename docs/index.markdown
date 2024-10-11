@@ -1,5 +1,17 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
----
-# Abraham C Montes
+# About Me
+<img src="./src/Headshot.jpg" width="400" alt="Abraham's Headshot"/>
+<p>Lorem Ipsum dolor sit amet</p>
+
+# Education
+<p>Lorem Ipsum</p>
+
+# Research Interests
+<p>Lorem Ipsum</p>
+
+# Professional Experience
+<p>Lorem Ipsum</p>
+
+# External Links
+<a href=""></a>
+<a href="">LinkedIn</a>
+<a href="">LinkedIn</a>
