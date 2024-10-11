@@ -1,13 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JYXJ5690TJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-JYXJ5690TJ');
-</script>
-
 # About Me
 <img src="./src/Headshot.jpg" width="400" alt="Abraham's Headshot"/>
 <p>I am a doctoral research fellow in the Petroleum and Geosystems Engineering department at the University of Texas at Austin (UT). My research focuses on the early detection of drilling problems, such as insufficient hole cleaning and wellbore instability. This work is crucial for preventing events that lead to non-productive time (NPT) and significant cost overruns, including stuck pipe incidents. At UT, I work under the supervision of Dr. Eric van Oort within the Rig Automation and Performance Improvement in Drilling research consortium (RAPID).</p>
@@ -50,7 +40,7 @@ Medellín, Colombia, Sep 2014</li> <br>
 <a href=""><img src="./src/icono_linkedin_dark.svg" width=30/></a> &nbsp; &nbsp;
 <a href=""><img src="./src/icono_github_dark.svg" width=30/></a> &nbsp; &nbsp;
 
----------------------------------------------------------------------------------------
+<hr class="solid">
 Contact: abraham.montes@utexas.edu <br>
 Austin, Texas, USA <br> <br>
 <img src="./src/RGB_formal_Cockrell.png" width=300/>
