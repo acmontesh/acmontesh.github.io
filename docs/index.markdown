@@ -36,9 +36,9 @@ Medellín, Colombia, Sep 2014</li> <br>
 <p>Additionally, I have experience teaching as both a teaching assistant and an adjunct professor. I served as a teaching assistant (TA) for well logging and calculus courses, and as an adjunct professor in the computer science and engineering department at Pontificia Universidad Javeriana. Alongside my research, teaching is one of the things I enjoy most.</p>
 
 # External Links
-<a href=""><img src="./src/icono_scholar_dark.svg" width=30/></a> &nbsp; &nbsp;
-<a href=""><img src="./src/icono_linkedin_dark.svg" width=30/></a> &nbsp; &nbsp;
-<a href=""><img src="./src/icono_github_dark.svg" width=30/></a> &nbsp; &nbsp;
+<a href="https://scholar.google.com/citations?user=Va0vQdsAAAAJ&hl=en"><img src="./src/icono_scholar_dark.svg" width=30/></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/abraham-c-montes-6661a841/"><img src="./src/icono_linkedin_dark.svg" width=30/></a> &nbsp; &nbsp;
+<a href="https://github.com/acmontesh"><img src="./src/icono_github_dark.svg" width=30/></a> &nbsp; &nbsp;
 
 <hr class="solid">
 Contact: abraham.montes@utexas.edu <br>
