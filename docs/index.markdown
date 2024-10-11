@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JYXJ5690TJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JYXJ5690TJ');
+</script>
+
 # About Me
 <img src="./src/Headshot.jpg" width="400" alt="Abraham's Headshot"/>
 <p>I am a doctoral research fellow in the Petroleum and Geosystems Engineering department at the University of Texas at Austin (UT). My research focuses on the early detection of drilling problems, such as insufficient hole cleaning and wellbore instability. This work is crucial for preventing events that lead to non-productive time (NPT) and significant cost overruns, including stuck pipe incidents. At UT, I work under the supervision of Dr. Eric van Oort within the Rig Automation and Performance Improvement in Drilling research consortium (RAPID).</p>
@@ -33,7 +43,7 @@ Medellín, Colombia, Sep 2014</li> <br>
 <li>Exploratory wells</li>
 <li>Thru-tubing ultra-slim laterals</li>
 </ul>
-Additionally, I have experience teaching as both a teaching assistant and an adjunct professor. I served as a teaching assistant (TA) for well logging and calculus courses, and as an adjunct professor in the computer science and engineering department at Pontificia Universidad Javeriana. Alongside my research, teaching is one of the things I enjoy most.</p>
+<p>Additionally, I have experience teaching as both a teaching assistant and an adjunct professor. I served as a teaching assistant (TA) for well logging and calculus courses, and as an adjunct professor in the computer science and engineering department at Pontificia Universidad Javeriana. Alongside my research, teaching is one of the things I enjoy most.</p>
 
 # External Links
 <a href=""><img src="./src/icono_scholar_dark.svg" width=30/></a> &nbsp; &nbsp;
